@@ -1,0 +1,10 @@
+Scott Hutchinson,scotth322,pass,Student,Computer Science
+Tamera Cross,tcross3,pass,Student,Commerce
+Ed Ellwood,ed212,pass,Student,Civil Engineering
+Daniela Prince,danielap3,pass,Student,Electrical Engineering
+Lydia Joseph,lydia9,pass,Student,Accounting
+Liyana Hayward,lhayward93,pass,Student,Law
+Maxim Mcpherson,maxim3,pass,Student,Computer Science
+Saarah Packeer,saarah,p,Student,Computer Science
+s,sa,w,Student,c
+Bruce,bruce99,pass,Student,Accounting

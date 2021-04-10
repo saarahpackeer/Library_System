@@ -1,0 +1,10 @@
+Edwin Santana,ed282,pass,librarian
+Kristin Masons,kmanson22,pass,librarian
+Reiss Rodrigues,reis992,pass,librarian
+Hugh Rodgers,hr544,pass,librarian
+Daisy Sherman,daisy98,pass,librarian
+Camille Goldsmith,cgoldsmith54,pass,librarian
+Marvin Wheeler,marvin8,pass,librarian
+Saarah Packeer,srp762,pass,Librarian
+Saarah Packeer,hsp,pass,Librarian
+Matt Lewis,ml009,password,Librarian
